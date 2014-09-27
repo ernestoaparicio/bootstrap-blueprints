@@ -14,6 +14,7 @@
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
@@ -25,7 +26,7 @@
         <?php include 'inc/header.php'; ?>
 
         <main role="main">
-            <h1>Main Heading</h1>
+            <h1>Testing Git Heading</h1>
             <p>Content specific to this page goes here.</p>
         </main>
 
